@@ -283,22 +283,6 @@ It acts as the networking layer that enables sending and receiving data.
 
 ---
 
-## 🛠️ Tech Stack / AWS Services Used
-
-- AWS VPC  
-- Subnets (Public)  
-- Internet Gateway  
-- Route Tables  
-- Security Groups  
-- Network ACLs  
-- VPC Peering  
-- EC2 Instances + EC2 Instance Connect  
-- VPC Flow Logs  
-- CloudWatch Log Groups  
-- CloudWatch Logs Insights  
-
----
-
 ## ✅ Key Learnings
 
 🔹 Learned real-world AWS networking by building the setup manually  
